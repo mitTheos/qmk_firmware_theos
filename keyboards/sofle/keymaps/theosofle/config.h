@@ -11,3 +11,7 @@
 #define ENCODERS_PAD_B { D2, B0 }
 #define ENCODER_RESOLUTION 4
 */
+
+#define ENCODERS_A_PINS { B12 }
+#define ENCODERS_B_PINS { B13 }
+#define ENCODER_RESOLUTIONS_RIGHT { 1, 4 }
