@@ -5,3 +5,5 @@ ENCODER_MAP_ENABLE = yes
 # LTO_ENABLE = yes  # Makes hex file smaller at cost of compile time
 OLED_ENABLE = yes
 RGBLIGHT_ENABLE = no # to reduce firmware size
+# UNICODE_ENABLE = yes
+UNICODEMAP_ENABLE = yes
