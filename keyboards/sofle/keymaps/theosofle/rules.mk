@@ -7,3 +7,4 @@ OLED_ENABLE = yes
 RGBLIGHT_ENABLE = no # to reduce firmware size
 # UNICODE_ENABLE = yes
 UNICODEMAP_ENABLE = yes
+MOUSEKEY_ENABLE = yes
